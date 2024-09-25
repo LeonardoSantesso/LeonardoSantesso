@@ -1,7 +1,7 @@
 ## Leonardo Santesso - Senior Full Stack Developer 
 
 <p align="justify">
-Experienced full stack developer with 17 years of expertise in web technologies using .NET. Passionate and self-motivated, constantly seeking to learn and implement the latest technologies. Committed to following best programming practices and software architecture principles. As an autodidact, I am continuously expanding my skill set by actively seeking out and learning about the latest cutting-edge technologies. This passion fuels my desire to deliver innovative and efficient solutions.  
+Experienced full stack developer with 18 years of expertise in web technologies using .NET. Passionate and self-motivated, constantly seeking to learn and implement the latest technologies. Committed to following best programming practices and software architecture principles. As an autodidact, I am continuously expanding my skill set by actively seeking out and learning about the latest cutting-edge technologies. This passion fuels my desire to deliver innovative and efficient solutions.  
 </p><br>
 
 
